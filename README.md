@@ -1,8 +1,13 @@
 # CartCheck
 
+<table align="right">
+ <tr><td><a href="README.md"><img src="https://github.com/IagoAntunes/IagoAntunes/blob/master/images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="https://github.com/IagoAntunes/IagoAntunes/blob/master/images/br-flag.png" height="13"> Português</a></td></tr>
+</table>
+
 :green_book::apple: Simplify your everyday life with our innovative Easy Shopping List app, designed to make your grocery trips more efficient and stress-free. We have developed an intuitive and complete tool, focused on facilitating the process of creating and managing your shopping lists, providing a smarter and more organized shopping experience.
 
-[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7150418480729600000/)
+:large_blue_circle: [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7150418480729600000/)
 
 ### ⚙️ Functionalities
 
